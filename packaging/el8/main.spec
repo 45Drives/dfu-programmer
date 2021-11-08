@@ -18,6 +18,10 @@ BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-root
 %setup -q
 
 %build
+aclocal -I m4
+autoheader
+automake --foreign --add-missing --copy
+autoconf
 %configure
 %{__make} %{?_smp_mflags}
 
