@@ -43,6 +43,8 @@ autoconf
 %{_datadir}/hal/fdi/information/20thirdparty/10-dfu-programmer.fdi
 
 %changelog
+* Tue Nov 09 2021 Joshua Boudreau <jboudreau@45drives.com> 0.7.2-3
+- bump build number to get on stable
 * Mon Nov 08 2021 Joshua Boudreau <jboudreau@45drives.com> 0.7.2-2
 - Set up EL8 packaging
 * Wed Feb 04 2015 Simon Large - 0.7.2-1

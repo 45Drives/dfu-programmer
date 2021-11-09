@@ -4,7 +4,7 @@
     "title": "Dfu-programmer",
     "prerelease": false,
     "version": "0.7.2",
-    "buildVersion": "2",
+    "buildVersion": "3",
     "author": "Joshua Boudreau <jboudreau@45drives.com>",
     "url": "https://github.com/45Drives/dfu-programmer",
     "category": "utils",
@@ -38,7 +38,7 @@
     "changelog": {
         "urgency": "medium",
         "version": "0.7.2",
-        "buildVersion": "2",
+        "buildVersion": "3",
         "ignore": [],
         "date": null,
         "packager": "Joshua Boudreau <jboudreau@45drives.com>",
